@@ -1,0 +1,24 @@
+{
+  "name": "NLW2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lauraagra/proffy.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/lauraagra/proffy/issues"
+  },
+  "homepage": "https://github.com/lauraagra/proffy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
